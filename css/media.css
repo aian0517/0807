@@ -1,0 +1,54 @@
+@media (max-width:1080px){
+    .nav-scroll{
+        margin: 5px;
+        top: 5px;
+    }
+    .head-container{
+        left: 2%;
+    }
+    .head-title{
+        font-size: 4.5rem;
+    }
+    .head-wire{
+        width: 50%;
+    }
+    .head-min{
+        width: 100%;
+    }
+    #head-mincaruo .item{
+        width: 170px;
+        object-fit: contain;
+    }
+    .body2-border{
+        border: none;
+    }
+    .body2-subtitle{
+        font-size: 1.5rem;
+    }
+    .body2-title{
+        font-size: 2.5rem;
+        text-align: center;
+    }
+    .body2-text{
+        font-size: 1rem;
+        width: 95%;
+    }
+    .body4-title{
+        font-size: 3rem;
+    }
+    .body6-input{
+        width: 80%;
+        font-size: 15px;
+    }
+    .body6-icon{
+        display: none;
+    }
+    .body6-btn{
+        bottom: 0;
+        right: 0;
+        transform: scale(0.6);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
